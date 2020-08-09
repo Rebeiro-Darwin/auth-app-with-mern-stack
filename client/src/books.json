@@ -1,0 +1,52 @@
+[
+  {
+    "bookName": "Harry Potter",
+    "author": "J K Rowling",
+    "edition": 2,
+    "publication": "Bloomsbury",
+    "category": "Novels",
+    "issuedStatus": "ISSUED",
+    "userName": "Chethana",
+    "photo": "https://m.media-amazon.com/images/I/51UoqRAxwEL.jpg"
+  },
+  {
+    "bookName": "The old draft",
+    "author": "Namwali Sernell",
+    "edition": 1,
+    "publication": "Newberry",
+    "category": "Marketing",
+    "issuedStatus": "RETURNED",
+    "userName": "Chinthana",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSR56Um0d9hCxYNHHPxly0p7DM24kK7jmCAtQ&usqp=CAU"
+  },
+  {
+    "bookName": "The Heavens",
+    "author": "Sandra Newman",
+    "edition": 3,
+    "publication": "Technical",
+    "category": "Wase/Wims",
+    "issuedStatus": "NOT RETURNED",
+    "userName": "Radha",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjHvWfHQTfkas5RMnrmBc-r89-yj7BkAUVaw&usqp=CAU"
+  },
+  {
+    "bookName": "Solar Bones",
+    "author": "Mike McCormack.",
+    "edition": 2,
+    "publication": "Bloomsbury",
+    "category": "Novels",
+    "issuedStatus": "ISSUED",
+    "userName": "Chethana",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/A1NfEjobJnL.jpg"
+  },
+  {
+    "bookName": "The passion",
+    "author": "G.H.",
+    "edition": 2,
+    "publication": "Bloomsbury",
+    "category": "Magazine",
+    "issuedStatus": "RETURNED",
+    "userName": "Radha",
+    "photo": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348638958l/153426.jpg"
+  }
+]
